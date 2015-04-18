@@ -1,0 +1,10 @@
+{
+  "name": "minifier",
+  "version": "0.0.0",
+  "description": "minifier",
+  "main": "app.js",
+  "author": {
+    "name": "Freywar",
+    "email": "fedotov@prognoz.ru"
+  }
+}
